@@ -1,0 +1,14 @@
+C:\Users\Baku\Desktop\Delegate, Function, Action, Predicate, Lamda expression\bin\Debug\net8.0\Delegate, Function, Action, Predicate, Lamda expression.exe
+C:\Users\Baku\Desktop\Delegate, Function, Action, Predicate, Lamda expression\bin\Debug\net8.0\Delegate, Function, Action, Predicate, Lamda expression.deps.json
+C:\Users\Baku\Desktop\Delegate, Function, Action, Predicate, Lamda expression\bin\Debug\net8.0\Delegate, Function, Action, Predicate, Lamda expression.runtimeconfig.json
+C:\Users\Baku\Desktop\Delegate, Function, Action, Predicate, Lamda expression\bin\Debug\net8.0\Delegate, Function, Action, Predicate, Lamda expression.dll
+C:\Users\Baku\Desktop\Delegate, Function, Action, Predicate, Lamda expression\bin\Debug\net8.0\Delegate, Function, Action, Predicate, Lamda expression.pdb
+C:\Users\Baku\Desktop\Delegate, Function, Action, Predicate, Lamda expression\obj\Debug\net8.0\Delegate, Function, Action, Predicate, Lamda expression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Baku\Desktop\Delegate, Function, Action, Predicate, Lamda expression\obj\Debug\net8.0\Delegate, Function, Action, Predicate, Lamda expression.AssemblyInfoInputs.cache
+C:\Users\Baku\Desktop\Delegate, Function, Action, Predicate, Lamda expression\obj\Debug\net8.0\Delegate, Function, Action, Predicate, Lamda expression.AssemblyInfo.cs
+C:\Users\Baku\Desktop\Delegate, Function, Action, Predicate, Lamda expression\obj\Debug\net8.0\Delegate, Function, Action, Predicate, Lamda expression.csproj.CoreCompileInputs.cache
+C:\Users\Baku\Desktop\Delegate, Function, Action, Predicate, Lamda expression\obj\Debug\net8.0\Delegate, Function, Action, Predicate, Lamda expression.dll
+C:\Users\Baku\Desktop\Delegate, Function, Action, Predicate, Lamda expression\obj\Debug\net8.0\refint\Delegate, Function, Action, Predicate, Lamda expression.dll
+C:\Users\Baku\Desktop\Delegate, Function, Action, Predicate, Lamda expression\obj\Debug\net8.0\Delegate, Function, Action, Predicate, Lamda expression.pdb
+C:\Users\Baku\Desktop\Delegate, Function, Action, Predicate, Lamda expression\obj\Debug\net8.0\Delegate, Function, Action, Predicate, Lamda expression.genruntimeconfig.cache
+C:\Users\Baku\Desktop\Delegate, Function, Action, Predicate, Lamda expression\obj\Debug\net8.0\ref\Delegate, Function, Action, Predicate, Lamda expression.dll
